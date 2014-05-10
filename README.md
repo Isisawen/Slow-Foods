@@ -1,4 +1,3 @@
-phonegap-jqm-boilerplate
+Slow Foods USA
 ========================
-
-Boilerplate App for jQuery Mobile Phonegap Application
+=^.^=
