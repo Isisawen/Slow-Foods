@@ -1,0 +1,19 @@
+{
+  "name": "slowfoods",
+  "version": "0.0.0",
+  "description": "phonegap-jqm-boilerplate ========================",
+  "main": "./lib/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bgando/slowfoods.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgando/slowfoods/issues"
+  },
+  "homepage": "https://github.com/bgando/slowfoods"
+}

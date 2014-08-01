@@ -1,9 +1,39 @@
 /* CSS Code for this PhoneGap App to Go Here */
 
+#map-canvas {
+margin-top:80px;
+margin-left:15px;
+height: 80%;
+width:94%;
+padding: 20px
+}
+
  body,.ui-page
  {
  	background: #FFFFFF;
  }
+
  .ui-page {
    -webkit-animation-fill-mode: both;
  }
+
+ul{
+	 list-style: none;
+}
+
+.name{
+	font-size:20px;
+	margin-bottom:-5px;
+}
+
+.address{
+	font-weight:bold;
+}
+
+.list-wrapper{
+padding:5px;
+}
+
+.img{
+	padding:3px;
+}
